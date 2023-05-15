@@ -7,9 +7,9 @@ You can view a group presentation about the project and a demo of the app [here]
 
 ## 🖥️  Back End 
 
-The back end API used for this project is hosted via Render and can be viewed [here](https://nc-news-81lq.onrender.com/api).
+The back end API used for this project is hosted via SwaggerDocs and can be viewed [here](https://fog-of-war-auth.onrender.com/api-docs/).
 
-The Github repository can be found [here](https://github.com/leahbanks/BE_nc_news).
+The Github repository can be found [here](https://github.com/leahbanks/BE-through-the-fog).
 
 ## ⌨️  Getting Started 
 
