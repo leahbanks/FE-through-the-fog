@@ -7,7 +7,7 @@ You can view a group presentation about the project and a demo of the app [here]
 
 ## 🖥️  Back End 
 
-The back end API used for this project is hosted via SwaggerDocs and can be viewed [here](https://fog-of-war-auth.onrender.com/api-docs/).
+The back end API used for this project is hosted via onRender and can the end points can be viewed on Swagger [here](https://fog-of-war-auth.onrender.com/api-docs/).
 
 The Github repository can be found [here](https://github.com/leahbanks/BE-through-the-fog).
 
