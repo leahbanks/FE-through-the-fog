@@ -5,6 +5,15 @@ Through the Fog is a mobile app and interactive game built using React Native. T
 
 [Presentation and Demo Video](https://user-images.githubusercontent.com/23381975/229468456-36d01223-2820-46d6-86a5-441aef5a1640.mp4).
 
+### Features
+
+* Tracking, recording and displaying of a user's geographical data. 
+* Sensitive to height: the higher up the user is, the more fog is uncovered.
+* User can create an account and log in.
+* Users can view a scoreboard of the area uncovered by all users.
+* Users can toggle the fog colour.
+* Users can delete their fog history.
+
 ## 🖥️  Back End 
 
 The back end API used for this project is hosted via onRender and can the end points can be viewed on Swagger [here](https://fog-of-war-auth.onrender.com/api-docs/).
