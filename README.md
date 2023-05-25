@@ -3,7 +3,7 @@
 
 Through the Fog is a mobile app and interactive game built using React Native. Through the Fog uses the Google Maps API and geolocational data from your phone to unveil the areas you have visited in real time. With help from the Through the Fog API, a user is able to create an account, store their progress/data, view scoreboards and post photo markers to document their travels. 
 
-You can view a group presentation about the project and a demo of the app [here](https://user-images.githubusercontent.com/23381975/229468456-36d01223-2820-46d6-86a5-441aef5a1640.mp4).
+[Presentation and Demo Video](https://user-images.githubusercontent.com/23381975/229468456-36d01223-2820-46d6-86a5-441aef5a1640.mp4).
 
 ## 🖥️  Back End 
 
